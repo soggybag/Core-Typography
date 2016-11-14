@@ -38,14 +38,11 @@ __Serif__
 
 ![Serif](/Notes/Serif.png)
 
-
-
-
 # Type Hierarchy
 
-A majority of your content is text. Your text needs to look good and read well.
+__A majority of your content is text.__ Your text needs to look good and read well.
 An important part of communication is the order in which you say things. You
-can use design to control the order in which your content is read.
+can use design to **control the order in which your content is read**.
 
 - http://visual.ly/10-building-blocks-visual-hierarchy
 
