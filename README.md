@@ -48,12 +48,12 @@ can use design to **control the order in which your content is read**.
 
 You can use these design elements to create hierarchy in your type:
 
-- Color
-- Position
-- Size
-- Style
-- Type Contrast
-- Weight
+-Color
+-Position
+-Size
+-Style
+-Type Contrast
+-Weight
 
 ### Identify Hierarchy in the wild
 
