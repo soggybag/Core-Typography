@@ -48,14 +48,17 @@ can use design to **control the order in which your content is read**.
 
 You can use these design elements to create hierarchy in your type:
 
--Color
--Position
--Size
--Style
--Type Contrast
--Weight
+- Color
+- Position
+- Size
+- Style
+- Type Contrast
+- Weight
 
 ### Identify Hierarchy in the wild
+
+Follow one of more of the links below, and look for elements listed above in
+the designs. 
 
 - https://www.behance.net/gallery/38375593/Community-app-for-Factory-campuses
 - http://abduzeedo.com/starbucks-experience-visual-design
