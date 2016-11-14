@@ -30,6 +30,16 @@ __Fonts__
 
 ![Fonts](/Notes/Type-Types.png)
 
+__Serif vs San Serif__
+
+![Serif vs San Serif](/Notes/Serif vs San Serif.png)
+
+__Serif__
+
+![Serif](/Notes/Serif.png)
+
+
+
 
 # Type Hierarchy
 
