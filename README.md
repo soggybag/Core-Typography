@@ -22,9 +22,13 @@ Typography has a few features that important.
 - Fonts
   - Serif vs San Serif
 
+__Terms__
 
 ![Type-Terms](/Notes/Type-Terms.png)
 
+__Fonts__
+
+![Fonts](/Notes/Type-Types.png)
 
 
 # Type Hierarchy
